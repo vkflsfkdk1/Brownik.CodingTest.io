@@ -23,7 +23,7 @@
 
 ****입출력 예****
 
-![Untitled](K%E1%84%87%E1%85%A5%E1%86%AB%E1%84%8D%E1%85%A2%20%E1%84%89%E1%85%AE%20ced558deb6f84196ba44a03524411adf/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/105714784/213613588-87ee20b2-04e7-46c0-899d-68321265bf5b.png)
 
 ****입출력 예 설명****
 
